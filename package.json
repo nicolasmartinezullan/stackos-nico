@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "Simple OS info - Demo module",
   "main": "stackos.js",
-  "repository": "https://github.com/nicolasmartinezullan/stackos-nico",
+  "repository": "https://github.com/nicolasmartinezullan/stackos-nico.git",
+  "bugs": "https://github.com/nicolasmartinezullan/stackos-nico/issues",
   "author": "Nicolas Martinez <nicolas.martinez.ullan@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "os",
+    "demo",
+    "yarn course"
+  ],
   "dependencies": {
     "chalk": "^3.0.0"
   }
